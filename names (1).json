@@ -1,0 +1,22 @@
+{
+  "person_1": {
+    "Interests": [
+      "football",
+      "cricket"
+    ],
+    "age": 22,
+    "amount_deposited": 50000,
+    "name": "Abdul Rafay",
+    "year": "1999"
+  },
+  "person_2": {
+    "Interests": [
+      "baseball",
+      "cricket"
+    ],
+    "age": 23,
+    "amount_deposited": 51000,
+    "name": "Nancy James",
+    "year": "1998"
+  }
+}
